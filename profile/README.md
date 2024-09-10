@@ -8,3 +8,7 @@ The **methodology** combines mainly computational literary studies and cultural 
 The project is hosted by the Center for Langugage and Cognition and the Center for Digital Humanities of the University of Groningen (Netherlands). 
 
 The official website is https://golemlab.eu
+
+SPARQL endpoint: http://graph.golemlab.eu:8890/sparql
+
+Ontology for Narrative and Fiction: https://github.com/GOLEM-lab/golem-ontology/wiki
